@@ -1,0 +1,44 @@
+.bg-navbarp {
+    background-color: #dd1124 !important;
+  }
+  .bg-footer {
+    background-color: #dd1124 !important;
+  }
+
+  .justificado{
+    text-align: justify;
+  }
+
+  .centrado{
+    text-align: center;
+  }
+
+  .t-der{
+    text-align: right;
+  }
+
+  .t-izq{
+    text-align: left;
+  }
+
+  .text-bg{
+    color: #dd1124 !important; 
+  }
+
+  .btn-bg{
+    color: #fff;
+    background-color: #dd1124;
+    border-color: #dd1124;
+  }
+
+  .enlaces-footer{
+    color: #fff !important;
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    background-color:#dd1124;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+  }
+  
+   
